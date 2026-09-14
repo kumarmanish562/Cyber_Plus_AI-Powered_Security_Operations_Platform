@@ -1,6 +1,5 @@
 package cyberpulse.common.controller;
 
-
 import cyberpulse.common.response.ApiResponse;
 import cyberpulse.common.validation.TestRequest;
 import jakarta.validation.Valid;
