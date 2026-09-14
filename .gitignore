@@ -1,0 +1,63 @@
+```gitignore
+# ==========================================
+# Documentation
+# ==========================================
+
+# Ignore entire docs folder
+docs/
+
+# Ignore Markdown documentation files
+*.md
+
+# Ignore text documentation
+*.txt
+*.rtf
+*.doc
+*.docx
+*.pdf
+
+
+# ==========================================
+# README Files
+# ==========================================
+
+README.md
+README.*
+readme.md
+readme.*
+
+
+# ==========================================
+# Images
+# ==========================================
+
+# Ignore all images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.bmp
+*.ico
+
+# Ignore image folders
+images/
+image/
+assets/images/
+docs/images/
+
+
+# ==========================================
+# Generated Documentation / Diagrams
+# ==========================================
+
+*.drawio
+*.drawio.bkp
+*.mermaid
+
+# Architecture/database/API diagrams
+architecture/
+diagrams/
+documentation/
+```
