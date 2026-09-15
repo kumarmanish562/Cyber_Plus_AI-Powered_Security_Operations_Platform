@@ -2,7 +2,6 @@ package cyberpulse.user.entity;
 
 
 import jakarta.persistence.Embeddable;
-import jakarta.persistence.EmbeddedId;
 import lombok.*;
 
 import java.io.Serializable;

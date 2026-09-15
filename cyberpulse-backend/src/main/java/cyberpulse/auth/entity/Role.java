@@ -1,7 +1,7 @@
 package cyberpulse.auth.entity;
 
 
-import com.cyberpulse.user.entity.UserRole;
+import cyberpulse.user.entity.UserRole;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
